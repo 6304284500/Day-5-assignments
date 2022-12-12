@@ -1,1 +1,1 @@
-# Flipcoin
+# FlipcoinFlipcoin
