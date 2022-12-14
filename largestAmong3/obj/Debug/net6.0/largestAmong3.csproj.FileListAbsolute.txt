@@ -1,0 +1,15 @@
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\bin\Debug\net6.0\largestAmong3.exe
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\bin\Debug\net6.0\largestAmong3.deps.json
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\bin\Debug\net6.0\largestAmong3.runtimeconfig.json
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\bin\Debug\net6.0\largestAmong3.dll
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\bin\Debug\net6.0\largestAmong3.pdb
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\largestAmong3.csproj.AssemblyReference.cache
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\largestAmong3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\largestAmong3.AssemblyInfoInputs.cache
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\largestAmong3.AssemblyInfo.cs
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\largestAmong3.csproj.CoreCompileInputs.cache
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\largestAmong3.dll
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\refint\largestAmong3.dll
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\largestAmong3.pdb
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\largestAmong3.genruntimeconfig.cache
+C:\Users\91630\source\repos\largestAmong3\largestAmong3\obj\Debug\net6.0\ref\largestAmong3.dll
